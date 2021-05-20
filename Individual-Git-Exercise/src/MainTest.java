@@ -5,6 +5,7 @@ public class MainTest {
 		pairCount test = new pairCount();
 		sequenceCount trial = new sequenceCount();
 		int output1 = test.pairs("silly assignments"); 
+		//expected output is 2
 		System.out.println(output1);
 		int output2 = test.pairs("Hello sunny day, goodnight moon");
 		System.out.println(output2);
