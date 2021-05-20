@@ -8,6 +8,7 @@ public class MainTest {
 		//expected output is 2
 		System.out.println(output1);
 		int output2 = test.pairs("Hello sunny day, goodnight moon");
+		//expected output is 4
 		System.out.println(output2);
 		int output3 = trial.count("1234561125214163611");
 		System.out.println(output3);
